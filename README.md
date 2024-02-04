@@ -1,6 +1,7 @@
 # WeatherApp
 
 WeatherApp is a React application designed to provide real-time weather information for a given city. It utilizes the OpenWeatherMap API to fetch weather data and showcases it in an intuitive user interface.
+The WeatherApp is deployed on Netlify, here's the link:  https://weatherwebsitereact.netlify.app/
 
 ## Features
 
