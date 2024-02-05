@@ -20,7 +20,7 @@ The WeatherApp is deployed on Netlify, here's the link:  https://weatherwebsiter
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/2212rutuja/WeatherApp.git
+   git clone https://github.com/<username>/WeatherApp.git
 
 ### Usage
 Enter the city name in the search bar.
